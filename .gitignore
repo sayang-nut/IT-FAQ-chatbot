@@ -17,6 +17,6 @@ chatbot-backend/.env
 .vscode/
 .idea/
 
-# OS
+# OS a
 .DS_Store
 Thumbs.db
