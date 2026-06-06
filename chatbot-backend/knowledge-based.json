@@ -1,0 +1,198 @@
+[
+  {
+    "id": "KB-001",
+    "category": "Account",
+    "question": "Làm sao để reset mật khẩu Windows?",
+    "answer": "Liên hệ IT Helpdesk qua email it-support@company.com hoặc gọi ext. 100. IT sẽ reset mật khẩu trong vòng 30 phút trong giờ hành chính (8:00–17:00). Ngoài giờ, vui lòng gửi email và IT sẽ xử lý vào sáng hôm sau.",
+    "keywords": ["reset", "mật khẩu", "password", "đăng nhập", "quên", "login", "không vào được máy"]
+  },
+  {
+    "id": "KB-002",
+    "category": "Account",
+    "question": "Cách yêu cầu cấp quyền truy cập vào hệ thống hoặc thư mục?",
+    "answer": "Gửi yêu cầu qua IT Portal tại portal.company.com, chọn mục 'Access Request'. Điền tên hệ thống/thư mục cần truy cập và lý do. Yêu cầu cần được manager của bạn phê duyệt trước khi IT xử lý. Thời gian xử lý: 1 ngày làm việc.",
+    "keywords": ["quyền", "truy cập", "access", "phân quyền", "cấp quyền", "thư mục", "folder", "hệ thống"]
+  },
+  {
+    "id": "KB-003",
+    "category": "Account",
+    "question": "Tài khoản bị khóa sau nhiều lần đăng nhập sai phải làm gì?",
+    "answer": "Tài khoản tự động khóa sau 5 lần nhập sai mật khẩu (chính sách bảo mật công ty). Gọi IT Helpdesk ext. 100 để mở khóa ngay lập tức. Không cần đặt lại mật khẩu trừ khi bạn cũng quên mật khẩu.",
+    "keywords": ["khóa", "locked", "blocked", "đăng nhập sai", "nhiều lần", "mở khóa"]
+  },
+  {
+    "id": "KB-004",
+    "category": "Account",
+    "question": "Cách thiết lập email công ty trên điện thoại cá nhân?",
+    "answer": "Tải ứng dụng Microsoft Outlook từ App Store hoặc Google Play. Mở app, chọn 'Add Account', nhập email công ty dạng ten.ho@company.com. Hệ thống sẽ tự cấu hình qua Exchange. Nếu yêu cầu server, nhập: mail.company.com.",
+    "keywords": ["email", "outlook", "điện thoại", "mobile", "cấu hình", "thiết lập", "exchange"]
+  },
+  {
+    "id": "KB-005",
+    "category": "Account",
+    "question": "Làm sao để đổi mật khẩu định kỳ theo yêu cầu hệ thống?",
+    "answer": "Nhấn Ctrl + Alt + Delete trên máy tính, chọn 'Change a password'. Nhập mật khẩu cũ và mật khẩu mới 2 lần. Mật khẩu mới phải dài ít nhất 8 ký tự, gồm chữ hoa, chữ thường, số và ký tự đặc biệt. Mật khẩu hết hạn sau 90 ngày.",
+    "keywords": ["đổi mật khẩu", "change password", "hết hạn", "password expired", "90 ngày"]
+  },
+  {
+    "id": "KB-006",
+    "category": "Network",
+    "question": "Cách kết nối VPN khi làm việc từ xa?",
+    "answer": "Tải phần mềm GlobalProtect từ IT Portal tại portal.company.com/downloads. Cài đặt, mở app và nhập địa chỉ: vpn.company.com. Đăng nhập bằng tài khoản Windows domain. Nếu lần đầu dùng, liên hệ IT để được cấp quyền VPN.",
+    "keywords": ["vpn", "remote", "từ xa", "làm việc ngoài", "globalprotect", "kết nối từ xa"]
+  },
+  {
+    "id": "KB-007",
+    "category": "Network",
+    "question": "Không kết nối được WiFi công ty phải làm gì?",
+    "answer": "Thử các bước: (1) Tắt và bật lại WiFi trên máy. (2) Quên mạng WiFi-Company và kết nối lại, nhập đúng mật khẩu. (3) Restart máy tính. (4) Nếu vẫn không được, kiểm tra xem máy khác có kết nối được không. Nếu chỉ máy bạn lỗi, liên hệ IT ext. 100.",
+    "keywords": ["wifi", "không kết nối", "mạng", "wireless", "không có internet", "mất wifi"]
+  },
+  {
+    "id": "KB-008",
+    "category": "Network",
+    "question": "Internet chậm bất thường, làm sao xử lý?",
+    "answer": "Kiểm tra nhanh: (1) Thử tắt VPN nếu đang bật, VPN đôi khi làm chậm kết nối. (2) Đóng các tab/ứng dụng đang tải dữ liệu lớn. (3) Thử kết nối bằng dây LAN thay vì WiFi. (4) Nếu toàn bộ tầng/phòng đều chậm, báo ngay IT vì có thể lỗi hạ tầng.",
+    "keywords": ["chậm", "lag", "internet chậm", "mạng chậm", "bandwidth", "tốc độ mạng"]
+  },
+  {
+    "id": "KB-009",
+    "category": "Network",
+    "question": "Cách chia sẻ máy in qua mạng nội bộ?",
+    "answer": "Máy in đã được chia sẻ sẵn qua mạng nội bộ. Trên máy tính, vào Settings > Printers & Scanners > Add a printer. Chọn 'The printer that I want isn't listed', sau đó chọn 'Find a printer in the directory'. Tìm theo tên phòng ban. Nếu không thấy, liên hệ IT.",
+    "keywords": ["máy in", "printer", "in ấn", "chia sẻ", "kết nối máy in", "add printer"]
+  },
+  {
+    "id": "KB-010",
+    "category": "Network",
+    "question": "DNS không phân giải được, không vào được website nội bộ?",
+    "answer": "Thử flush DNS: mở Command Prompt với quyền Admin, gõ 'ipconfig /flushdns' rồi Enter. Sau đó gõ 'ipconfig /renew'. Nếu vẫn lỗi, kiểm tra DNS server trong Network Settings phải là 192.168.1.1 (DNS nội bộ công ty). Liên hệ IT nếu không tự sửa được.",
+    "keywords": ["dns", "không vào được", "website", "phân giải", "ipconfig", "flush dns", "nội bộ"]
+  },
+  {
+    "id": "KB-011",
+    "category": "Hardware",
+    "question": "Máy tính không khởi động được phải làm gì?",
+    "answer": "Kiểm tra theo thứ tự: (1) Đảm bảo dây nguồn được cắm chắc. (2) Thử nhấn nút nguồn giữ 10 giây để hard reset. (3) Kiểm tra đèn nguồn có sáng không. (4) Nếu máy bật nhưng màn hình đen, kiểm tra cáp màn hình. Nếu không tự xử lý được, tạo ticket tại IT Portal và đừng tháo máy.",
+    "keywords": ["không khởi động", "không lên", "máy chết", "không bật", "đen màn hình", "nguồn"]
+  },
+  {
+    "id": "KB-012",
+    "category": "Hardware",
+    "question": "Màn hình bị nhòe, nhấp nháy hoặc không hiển thị đúng?",
+    "answer": "Thử: (1) Rút và cắm lại cáp kết nối giữa màn hình và máy tính. (2) Thử dùng cáp khác (HDMI/DisplayPort). (3) Vào Display Settings, điều chỉnh Resolution về recommended. (4) Cập nhật driver card đồ họa. Nếu màn hình vẫn lỗi sau các bước trên, có thể phần cứng hỏng — báo IT để thay thế.",
+    "keywords": ["màn hình", "nhòe", "nhấp nháy", "flicker", "display", "không hiển thị", "resolution"]
+  },
+  {
+    "id": "KB-013",
+    "category": "Hardware",
+    "question": "Bàn phím hoặc chuột không hoạt động?",
+    "answer": "Với thiết bị có dây: rút ra cắm lại vào cổng USB khác. Với thiết bị không dây: kiểm tra pin, bật/tắt lại công tắc trên thiết bị. Vào Device Manager kiểm tra có cảnh báo lỗi driver không. Restart máy tính. Nếu thiết bị vẫn không nhận, có thể hỏng phần cứng, báo IT để đổi thiết bị mới.",
+    "keywords": ["bàn phím", "chuột", "keyboard", "mouse", "không hoạt động", "usb", "không nhận"]
+  },
+  {
+    "id": "KB-014",
+    "category": "Hardware",
+    "question": "Máy tính chạy chậm, nóng hoặc tự tắt?",
+    "answer": "Máy nóng và chậm thường do: (1) Quạt tản nhiệt bị bụi bẩn — báo IT để vệ sinh định kỳ. (2) Quá nhiều ứng dụng chạy nền — mở Task Manager (Ctrl+Shift+Esc), kết thúc tiến trình không cần thiết. (3) Ổ cứng gần đầy — xóa file rác hoặc dọn Recycle Bin. Không tự tháo máy để vệ sinh.",
+    "keywords": ["chậm", "nóng", "tự tắt", "lag", "đơ", "treo máy", "quạt", "tản nhiệt", "performance"]
+  },
+  {
+    "id": "KB-015",
+    "category": "Hardware",
+    "question": "Cách yêu cầu thiết bị IT mới hoặc thay thế thiết bị hỏng?",
+    "answer": "Vào IT Portal > Hardware Request. Chọn loại yêu cầu: 'New Equipment' hoặc 'Replacement'. Mô tả lý do và thiết bị cần thiết. Yêu cầu cần manager phê duyệt. Với thiết bị hỏng khẩn cấp ảnh hưởng công việc, gọi thẳng IT ext. 100 để được ưu tiên xử lý.",
+    "keywords": ["thiết bị mới", "thay thiết bị", "hỏng", "equipment", "yêu cầu", "laptop mới", "màn hình mới"]
+  },
+  {
+    "id": "KB-016",
+    "category": "Software",
+    "question": "Cách cài đặt phần mềm được phê duyệt trên máy công ty?",
+    "answer": "Phần mềm được phê duyệt sẵn có tại IT Portal > Software Library. Tải về và chạy installer. Với phần mềm cần quyền Admin, tạo ticket tại IT Portal, IT sẽ remote vào cài giúp trong vòng 2 giờ. Tuyệt đối không tự cài phần mềm không có trong danh sách — vi phạm chính sách bảo mật.",
+    "keywords": ["cài đặt", "phần mềm", "install", "software", "ứng dụng", "cần cài", "phê duyệt"]
+  },
+  {
+    "id": "KB-017",
+    "category": "Software",
+    "question": "Phần mềm bị lỗi, crash hoặc không mở được?",
+    "answer": "Thử theo thứ tự: (1) Đóng hoàn toàn và mở lại ứng dụng. (2) Restart máy tính. (3) Chuột phải vào icon > Run as administrator. (4) Kiểm tra Windows Update và update ứng dụng. (5) Gỡ cài đặt và cài lại. Nếu vẫn lỗi sau các bước trên, mô tả chi tiết lỗi (chụp màn hình) và tạo ticket IT.",
+    "keywords": ["lỗi", "crash", "không mở", "ứng dụng lỗi", "bị lỗi", "không chạy", "treo ứng dụng"]
+  },
+  {
+    "id": "KB-018",
+    "category": "Software",
+    "question": "Windows Update liên tục hiện thông báo, có nên cập nhật không?",
+    "answer": "Có, nên cập nhật Windows thường xuyên để đảm bảo bảo mật. Tuy nhiên tránh cập nhật trong giờ họp quan trọng hoặc deadline. Thực hiện update vào cuối ngày hoặc qua đêm. Nếu update bị lỗi hoặc máy chậm bất thường sau update, báo IT ngay.",
+    "keywords": ["windows update", "cập nhật", "update", "thông báo update", "nâng cấp windows"]
+  },
+  {
+    "id": "KB-019",
+    "category": "Software",
+    "question": "Microsoft Office (Word, Excel, Teams) bị lỗi hoặc mất bản quyền?",
+    "answer": "Nếu Office hiện thông báo 'Unlicensed Product' hoặc yêu cầu activate: mở bất kỳ ứng dụng Office, vào File > Account > Sign In, đăng nhập bằng email công ty. Nếu vẫn lỗi, liên hệ IT để cấp lại license. Không mua bản quyền cá nhân — công ty đã cung cấp license cho tất cả nhân viên.",
+    "keywords": ["office", "word", "excel", "teams", "bản quyền", "license", "unlicensed", "activate"]
+  },
+  {
+    "id": "KB-020",
+    "category": "Software",
+    "question": "Dữ liệu bị xóa nhầm, có khôi phục được không?",
+    "answer": "Kiểm tra Recycle Bin trước tiên — chuột phải file > Restore. Nếu đã xóa khỏi Recycle Bin, kiểm tra OneDrive Recycle Bin (lưu 30 ngày). Với file trên server nội bộ, IT có thể khôi phục từ backup — tạo ticket ngay, mô tả tên file, thư mục và thời điểm xóa. Càng báo sớm càng dễ khôi phục.",
+    "keywords": ["xóa nhầm", "khôi phục", "restore", "file mất", "recover", "backup", "recycle bin"]
+  },
+  {
+    "id": "KB-021",
+    "category": "Security",
+    "question": "Nhận được email đáng ngờ, có thể là phishing — phải làm gì?",
+    "answer": "KHÔNG click vào link hoặc attachment trong email đó. Forward email cho it-security@company.com với tiêu đề 'Suspicious Email Report'. Nếu đã click nhầm, ngắt kết nối mạng (rút dây LAN hoặc tắt WiFi) và gọi ngay IT ext. 100 — đây là tình huống khẩn cấp. Đừng tự xử lý một mình.",
+    "keywords": ["phishing", "email đáng ngờ", "lừa đảo", "spam", "link lạ", "attachment", "giả mạo"]
+  },
+  {
+    "id": "KB-022",
+    "category": "Security",
+    "question": "Máy tính có thể bị nhiễm virus hoặc malware?",
+    "answer": "Dấu hiệu: máy chậm bất thường, xuất hiện quảng cáo lạ, file bị mã hóa, chương trình tự chạy. Nếu nghi ngờ: ngắt mạng ngay, KHÔNG tắt máy (giúp IT phân tích), gọi IT ext. 100. IT sẽ quét và xử lý bằng công cụ chuyên dụng. Tuyệt đối không tự tải phần mềm diệt virus từ internet lạ.",
+    "keywords": ["virus", "malware", "ransomware", "nhiễm virus", "bị hack", "quảng cáo lạ", "máy bị nhiễm"]
+  },
+  {
+    "id": "KB-023",
+    "category": "Security",
+    "question": "Chính sách mật khẩu của công ty là gì?",
+    "answer": "Mật khẩu phải: tối thiểu 8 ký tự, có chữ hoa + chữ thường + số + ký tự đặc biệt (@, #, !...), không dùng tên cá nhân hoặc ngày sinh, không tái sử dụng 5 mật khẩu gần nhất. Đổi định kỳ 90 ngày. Không chia sẻ mật khẩu với bất kỳ ai kể cả IT (IT không cần mật khẩu của bạn để hỗ trợ).",
+    "keywords": ["chính sách mật khẩu", "password policy", "yêu cầu mật khẩu", "mật khẩu mạnh", "bảo mật"]
+  },
+  {
+    "id": "KB-024",
+    "category": "Security",
+    "question": "Có thể dùng USB cá nhân trên máy tính công ty không?",
+    "answer": "Không được phép cắm USB cá nhân hoặc thiết bị lưu trữ ngoài chưa được kiểm tra vào máy công ty — đây là rủi ro bảo mật nghiêm trọng. Nếu cần chuyển file, dùng OneDrive, SharePoint hoặc email nội bộ. Trường hợp đặc biệt cần dùng USB, báo IT để được cấp USB đã được kiểm tra và mã hóa.",
+    "keywords": ["usb", "thiết bị ngoài", "flash drive", "chuyển file", "cắm usb", "storage ngoài"]
+  },
+  {
+    "id": "KB-025",
+    "category": "Security",
+    "question": "Máy tính bị mất hoặc bị đánh cắp phải báo cáo như thế nào?",
+    "answer": "Báo cáo ngay lập tức trong vòng 1 giờ: (1) Gọi IT ext. 100 để khóa tài khoản và remote wipe thiết bị từ xa. (2) Báo cáo với manager và bộ phận bảo vệ/HR. (3) Nếu xảy ra ngoài công ty, làm biên bản xác nhận với cơ quan chức năng nếu cần. Thời gian phản ứng nhanh là quan trọng nhất để bảo vệ dữ liệu.",
+    "keywords": ["mất máy", "đánh cắp", "stolen", "lost", "mất laptop", "báo cáo mất thiết bị"]
+  },
+  {
+    "id": "KB-026",
+    "category": "Network",
+    "question": "Cách truy cập ổ đĩa mạng (Network Drive) nội bộ?",
+    "answer": "Mở File Explorer, chuột phải 'This PC' > Map network drive. Chọn ký tự ổ đĩa (Z: hoặc tùy chọn), nhập đường dẫn: \\\\fileserver\\TenPhongBan. Tick 'Reconnect at sign-in'. Đăng nhập bằng tài khoản Windows domain. Nếu không biết đường dẫn của phòng ban mình, hỏi IT.",
+    "keywords": ["network drive", "ổ đĩa mạng", "map drive", "fileserver", "chia sẻ file", "shared folder"]
+  },
+  {
+    "id": "KB-027",
+    "category": "Software",
+    "question": "Cách join cuộc họp Microsoft Teams khi không vào được?",
+    "answer": "Thử: (1) Dùng link meeting trên trình duyệt Edge/Chrome nếu app bị lỗi — chọn 'Join on the web'. (2) Đảm bảo app Teams được cập nhật: Teams > ... > Check for updates. (3) Đăng xuất và đăng nhập lại Teams. (4) Kiểm tra micro và camera trong Settings > Devices trước khi vào phòng họp. Gọi IT nếu vẫn không vào được.",
+    "keywords": ["teams", "họp online", "meeting", "không vào được", "microsoft teams", "cuộc họp", "join meeting"]
+  },
+  {
+    "id": "KB-028",
+    "category": "Hardware",
+    "question": "Cách kết nối máy tính với máy chiếu hoặc màn hình ngoài trong phòng họp?",
+    "answer": "Cắm cáp HDMI hoặc DisplayPort từ laptop vào màn hình/máy chiếu. Nhấn Windows + P để chọn chế độ hiển thị: Duplicate (nhân đôi), Extend (mở rộng), hoặc Second screen only. Nếu phòng họp dùng kết nối không dây (WiDi/Miracast): vào Action Center > Connect > chọn tên thiết bị phòng họp.",
+    "keywords": ["máy chiếu", "projector", "màn hình ngoài", "kết nối", "hdmi", "phòng họp", "present", "windows p"]
+  }
+]
