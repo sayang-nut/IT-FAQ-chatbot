@@ -10,6 +10,8 @@ venv/
 credentials.json
 service_account.json
 .env.local
+chatbot-backend/.env
+
 
 # IDE
 .vscode/
